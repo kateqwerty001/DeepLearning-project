@@ -1,4 +1,5 @@
-# wb_nn_project
+# DeepLearning project (ResNet18, Transformers, TransferLearning, CurriculumLearning, XAI)
+
 
 # The First Part of the project
 
